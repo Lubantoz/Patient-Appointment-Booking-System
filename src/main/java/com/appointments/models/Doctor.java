@@ -10,7 +10,7 @@ public class Doctor {
         this.name = name;
         this.specialist = specialist;
     }
-//git
+//gitt
     public int getId() { return id; }
     public void setId(int id) { this.id = id; }
 
